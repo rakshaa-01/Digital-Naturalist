@@ -56,12 +56,12 @@ def upload():
         inp = np.array([x])
         with graph.as_default():
             #loading the saved model from training
-            json_file = open('F:/SSN Files/Extras in SSN/Sprint 2/DigitalNaturalist.json', 'r')
+            json_file = open('home/DigitalNaturalist.json', 'r')
             loaded_model_json = json_file.read()
             json_file.close()
             loaded_model = model_from_json(loaded_model_json)
             #adding weights to the trained model
-            loaded_model.load_weights("F:/SSN Files/Extras in SSN/Sprint 2/DigitalNaturalist.h5")
+            loaded_model.load_weights("home/DigitalNaturalist.h5")
             #predecting the image
             preds =  np.argmax(loaded_model.predict(inp),axis=1)
             #logs are printed to the console 
