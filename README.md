@@ -2,7 +2,7 @@
 **Digital Naturalist - An AI Enabled tool for Biodiversity Researchers**
 
 # Project overview:
-*A naturalist is someone who observes natural patterns and recognises various flora and fauna in the wild. 
+*A **naturalist** is someone who observes natural patterns and recognises various flora and fauna in the wild. 
 Field naturalists frequently rely on conventional strategies when exploring the woods, such as always bringing a guidebook with them or asking knowledgeable ornithologists for assistance. 
 They ought to have access to a useful tool that allows them to notice, catalog, and communicate the beauty to others. 
 To identify the birds, flowers, animals, and other species they see on their treks, canoe journeys, and other excursions, field naturalists can utilize this web app from anywhere.
