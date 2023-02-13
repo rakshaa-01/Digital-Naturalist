@@ -16,11 +16,7 @@ In this project we will be collecting images and information about different flo
   <img src="https://user-images.githubusercontent.com/113274637/202910473-11e5d64f-b116-46b1-9285-311b46646969.JPG">
 </p>
 
-## Video demonstration link - [Video](https://youtu.be/T6_ILaimdX8)
-
 ## Website link - [Website](http://simplify.pythonanywhere.com/)
-
-## Project Report - [Report](https://drive.google.com/file/d/1Er579XnDd_U6hpnS0NOcNmxi83kRhTRL/view?usp=sharing)
 
 
 
